@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+alembic
+python-jose[cryptography]
+passlib[bcrypt]
+httpx
+apscheduler
+openai
+python-dotenv
+psycopg2-binary
+aiosqlite
+pydantic[email]
